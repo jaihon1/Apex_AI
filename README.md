@@ -1,7 +1,7 @@
 # Apex_AI
 
 ## Apex Legends
-A First Person Shooter online game.
+A character based First Person Shooter online game.
 Battleroyal: 20 teams of 3.
 https://www.ea.com/games/apex-legends
 
