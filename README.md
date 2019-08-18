@@ -2,7 +2,7 @@
 
 ## Apex Legends
 A First Person Shooter online game.
-Battleroyal of 20 teams of 3.
+Battleroyal: 20 teams of 3.
 https://www.ea.com/games/apex-legends
 
 ## Program
