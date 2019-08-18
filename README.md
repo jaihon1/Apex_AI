@@ -1,11 +1,11 @@
 # Apex_AI
 
-### Apex Legends
+## Apex Legends
 A character based First Person Shooter online game.
 Battleroyal: 20 teams of 3.
 https://www.ea.com/games/apex-legends
 
-### Program
+## Program
 Apex_AI is a program that learns how to play Apex Legends 
 
 ## Goal
