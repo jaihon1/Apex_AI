@@ -20,4 +20,5 @@ Apex_AI is a program that learns how to play Apex Legends
 # Tools
   * Python3
   * OpenCV
+  * TensorFlow
   * Apex Legends (Windows)
