@@ -15,7 +15,7 @@ Apex_AI is a program that learns how to play Apex Legends
 
 # Concepts
   * Convolutional Neural Network
-  * Reinforcment Learning
+  * Reinforcment Learning (Q-Learning)
 
 # Tools
   * Python3
